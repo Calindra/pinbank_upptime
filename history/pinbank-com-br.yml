@@ -1,7 +1,7 @@
 url: https://pinbank.com.br
-status: up
-code: 200
-responseTime: 447
-lastUpdated: 2026-01-18T23:24:19.700Z
+status: down
+code: 503
+responseTime: 348
+lastUpdated: 2026-01-19T17:43:44.745Z
 startTime: 2026-01-01T15:42:23.852Z
 generator: Upptime <https://github.com/upptime/upptime>
