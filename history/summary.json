@@ -4,10 +4,10 @@
     "url": "https://pinbank.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/pinbank.com.br.ico",
     "slug": "pinbank-com-br",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.31%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.61%",
     "time": 393,
@@ -16,6 +16,7 @@
     "timeMonth": 354,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2026-02-12": 0,
       "2026-02-05": 170,
       "2026-01-19": 66
     }
