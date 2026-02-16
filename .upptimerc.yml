@@ -17,6 +17,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: Dev API
+    url: https://dev.pinbank.com.br/ManualIntegracao/Home/ManualIntegracao
 
 assignees:
   - fabiooshiro
