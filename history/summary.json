@@ -62,19 +62,19 @@
     "url": "https://dev.pinbank.com.br/ManualIntegracao/Home/ManualIntegracao",
     "icon": "https://icons.duckduckgo.com/ip3/dev.pinbank.com.br.ico",
     "slug": "dev-api",
-    "status": "down",
-    "uptime": "7.69%",
-    "uptimeDay": "7.69%",
-    "uptimeWeek": "7.69%",
-    "uptimeMonth": "7.69%",
-    "uptimeYear": "7.69%",
-    "time": 548,
-    "timeDay": 548,
-    "timeWeek": 548,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 577,
+    "timeDay": 577,
+    "timeWeek": 577,
+    "timeMonth": 577,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2026-02-16": 0
+      "2026-02-16": 66
     }
   }
 ]
