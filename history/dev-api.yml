@@ -1,7 +1,7 @@
 url: https://dev.pinbank.com.br/ManualIntegracao/Home/ManualIntegracao
-status: down
-code: 500
-responseTime: 548
-lastUpdated: 2026-02-16T14:32:05.679Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2026-02-16T15:38:31.113Z
 startTime: 2026-02-16T14:32:04.840Z
 generator: Upptime <https://github.com/upptime/upptime>
